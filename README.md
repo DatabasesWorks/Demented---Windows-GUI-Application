@@ -5,9 +5,10 @@ Demented is a local clothing store located in Pomona, CA.
 I was a frequent visitor to the shop and I noticed at purchases, they were using 
 calculators and notebooks. At the time I was learning how to program GUI applications
 on my own so I thought, why not give myself a goal and make a program that this business
-can use so that we both benefit from it? I started by making a demo with two weeks of programming
-and asked if this would be something they'd be interested in. They said, "Of course we'd be interested! But
-what's the cost?" I told them, as long as they stay dedicated to the program and give me feedback, It's free.
+can use so that we both benefit from it? I started by making a demo that took me two weeks of learning ad programming
+that showed what the basic functionality would be and asked if this would be something they'd be interested in.
+They said, "Of course we'd be interested! Butwhat's the cost?" I told them, as long as they stay dedicated to 
+the program and give me feedback, It's free.
 
 Objective:
 The objective of this program is to minimize the labor work of paper and pencil to zero. Also, to sort

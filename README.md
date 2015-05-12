@@ -16,22 +16,29 @@ the products in the store so that every item can be found and so that they know 
 each product all on one screen.
 
 Login:
+
 ![alt tag](http://i.imgur.com/utkn098.png)
 
 Menu:
+
 ![alt tag](http://i.imgur.com/3gl5mTj.png)
 
 Inventory:
+
 ![alt tag](http://i.imgur.com/rREaVaJ.png)
 
 Search:
+
 ![alt tag](http://i.imgur.com/twfRRnf.png)
 
 Import:
+
 ![alt tag](http://i.imgur.com/4HUV885.png)
 
 User Management:
+
 ![alt tag](http://i.imgur.com/MrRkcDX.png)
 
 Master Log:
+
 ![alt tag](http://i.imgur.com/i1uP0nm.png)

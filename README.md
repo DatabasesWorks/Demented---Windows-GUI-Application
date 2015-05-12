@@ -19,7 +19,7 @@ Login:
 
 ![alt tag](http://i.imgur.com/utkn098.png)
 
-Menu:
+Menu for Administrators (Non-Admins view less options): 
 
 ![alt tag](http://i.imgur.com/3gl5mTj.png)
 
